@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Alexander O'Connor
+layout: default
+
 ---
 
 #Blog Posts
